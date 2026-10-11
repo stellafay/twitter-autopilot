@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-12",
+  "dsh_brief_version": "v1.0",
+  "macro_sentiment": "技術盤整期，市場短期雜音過載，極度渴求客觀理性降噪視角",
+  "radar_topics": [
+    {
+      "slot": "08:00 (Slot 1)",
+      "category": "技術速評",
+      "topic": "端側 AI 模型與去中心化算力微支付網絡融合",
+      "hook": "端側小模型不是雲端巨頭的妥協版，而是主權個人第一次在物理上擁有不可剝奪的思考中樞。",
+      "visual_metaphor": "a miniature obsidian tesseract core radiating razor-sharp silver circuits into a dark vast void",
+      "key_points": ["離線推理成本趨近於零", "鏈上小額結算保障數據自主權", "打破中心化 API 審查邊界"]
+    },
+    {
+      "slot": "12:30 (Slot 2)",
+      "category": "反焦慮哲思",
+      "topic": "牛熊週期的噪聲過濾：在躁動中保留認知秩序",
+      "hook": "價格的布朗運動永遠在獎勵短期敏銳，卻在懲罰長期的靈魂專注。",
+      "visual_metaphor": "a colossal brutalist hourglass containing dark metallic mercury sand suspended in weightlessness",
+      "key_points": ["不要在別人亢奮時交出專注力", "回歸開源代碼的演進節奏", "把焦慮轉化為協議理解力"]
+    },
+    {
+      "slot": "18:30 (Slot 3)",
+      "category": "數字烏托邦生活",
+      "topic": "矽基智能承接繁瑣，碳基肉身奪回生活",
+      "hook": "自動化不是為了讓人類變得更像機器，而是讓人類終於有時間回歸為人。",
+      "visual_metaphor": "a solitary minimalist balcony overlooking an endless digital horizon at dusk, cold chiaroscuro",
+      "key_points": ["委派不是逃避，是精準釋放認知帶寬", "代碼承諾確定性，人類專注體驗神聖性"]
+    }
+  ],
+  "monitoring_targets": {
+    "key_accounts": ["VitalikButerin", "sama", "ylecun", "balajis"],
+    "keywords": ["AI Agent", "Crypto", "Decentralized AI", "Zero Knowledge", "ZK-Proof"]
+  },
+  "safety_jitter_minutes": 20
+}
